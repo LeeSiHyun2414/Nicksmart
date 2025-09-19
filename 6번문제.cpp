@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 long long fib[91]; 
@@ -20,3 +21,4 @@ int main() {
 
     return 0;
 }
+
